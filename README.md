@@ -14,8 +14,10 @@ Mdp : prêts
 
 Si vous voulez accéder au service culture avec :
 identifiant : culture
-Mdp : culture 
-vous recevrez une erreur vous disant que "le service culture n'a pas les autorisations
+Mdp : culture
+
+
+Vous recevrez une erreur vous disant que "le service culture n'a pas les autorisations
 suffisantes pour utiliser l'application".
 
 
