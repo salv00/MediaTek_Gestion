@@ -1,5 +1,8 @@
 # MediaTek_Gestion
-MediaTek86, est un réseau qui gère les médiathèques de la Vienne, et qui a pour rôle de fédérer les prêts de livres, DVD et CD et de développer la médiathèque numérique pour l’ensemble des médiathèques du département. Le logiciel MediaTek_Gestion permet de gérer les commandes de livres, DVD et revues.
+MediaTek86, est un réseau qui gère les médiathèques de la Vienne, et qui a pour rôle de fédérer les prêts de livres, DVD et CD et de développer la médiathèque numérique pour l’ensemble des médiathèques du département. 
+
+
+Le logiciel MediaTek_Gestion permet de gérer les commandes de livres, DVD et revues.
 
 
 Pour accéder en tant d'admin :
