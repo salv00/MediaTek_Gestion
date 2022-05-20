@@ -1,0 +1,6 @@
+2022-05-02 16:58:41.302 +02:00 [INF] L'utilisateur admin s'est connecté, il fait appartient au service Administratif
+2022-05-02 17:06:14.167 +02:00 [INF] Echec de la connexion
+2022-05-02 17:06:37.710 +02:00 [INF] L'utilisateur prets s'est connecté, il fait appartient au service Prets
+2022-05-02 17:07:43.771 +02:00 [INF] L'utilisateur culture s'est connecté, il fait appartient au service Culture
+2022-05-02 17:24:37.519 +02:00 [INF] L'utilisateur admin s'est connecté, il fait appartient au service Administratif
+2022-05-02 20:39:31.756 +02:00 [INF] L'utilisateur admin s'est connecté, il fait appartient au service Administratif
